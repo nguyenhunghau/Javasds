@@ -11,9 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link href="../../Css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="../../Css/bootstrap.css" rel="stylesheet" type="text/css"/>
-        <link href="../../Css/style.css" rel="stylesheet" type="text/css"/>
         <link href="../../Css/index.css" rel="stylesheet" type="text/css"/>
-        <link href="../../Css/main.css" rel="stylesheet" type="text/css"/>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="../../js/jquery.js"></script>
         <script src="../../js/bootstrap.min.js"></script>
